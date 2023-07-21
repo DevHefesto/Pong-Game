@@ -12,6 +12,8 @@ Este é um simples jogo Pong desenvolvido com a biblioteca p5.js, onde você pod
 
 Para executar o jogo, basta abrir o arquivo `index.html` no seu navegador web preferido. O jogo será carregado e você já pode começar a jogar!
 
+**Você também pode jogar online!** Acesse [aqui](https://bestponggame.vercel.app) para jogar diretamente no navegador.
+
 ## Pausando o Jogo
 
 Durante a partida, você pode pausar o jogo pressionando a tecla 'p'. Isso congelará a movimentação da bolinha e das raquetes. Pressione 'p' novamente para retomar o jogo.
