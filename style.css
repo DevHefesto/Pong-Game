@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column; /* Added this line to stack items vertically */
+}
+
+canvas {
+  border: 1px solid black;
+  margin-top: 10px; /* Added margin to separate the title and canvas */
+}
+
+.container {
+  text-align: center; /* Center the title */
+}
+
+.script {
+  margin-top: 20px; /* Added margin to separate the title and canvas */
+}
