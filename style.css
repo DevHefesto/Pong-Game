@@ -7,15 +7,10 @@ body {
   flex-direction: column; /* Added this line to stack items vertically */
 }
 
-canvas {
-  border: 1px solid black;
-  margin-top: 10px; /* Added margin to separate the title and canvas */
-}
-
-.container {
-  text-align: center; /* Center the title */
-}
-
-.script {
-  margin-top: 20px; /* Added margin to separate the title and canvas */
+.gameRules {
+  margin-top: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  width: 250px; /* Width of the rules section */
 }
