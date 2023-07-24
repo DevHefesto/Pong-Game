@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+  }
+  
+  .container {
+    text-align: center; /* Center the title */
+  }
+  
+  .contentWrapper {
+    display: flex; /* Create a flex container */
+    align-items: flex-start; /* Align items to the top (left) */
+  }
+  
+  .gameRules {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+  }
+  
+  .gameScript {
+    margin-left: 20px; /* Added margin to separate the rules and script */
+  }
+  
